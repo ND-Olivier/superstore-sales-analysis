@@ -5,7 +5,7 @@
 This project analyzes retail sales data using SQL Server and Power BI to uncover business insights, evaluate sales performance, identify profitable products, understand customer behavior, and support data-driven decision-making.
 
 
-## 🎯 Business Problem
+## Business Problem
 
 The business wants to understand:
 
@@ -123,4 +123,4 @@ Dataset/
 
 **Olivier Ndarishize**
 
-Aspiring Data Analyst | SQL | Power BI | Excel
+Aspiring Data Analyst Excel | SQL | Power BI 
