@@ -57,21 +57,37 @@ The SQL analysis included:
 
 ---
 
-## Power BI Dashboard
+## 📷 Dashboard Preview
 
-The dashboard contains four interactive pages:
+### 1  Retail Sales Performance Dashboard
 
-### 1️ Executive Dashboard
-Provides an overview of sales performance and key business KPIs.
+This page provides a high-level overview of the company's overall sales performance. It summarizes key business KPIs, monthly sales trends, regional performance, and category-level sales.
 
-### 2️ Product Performance
-Analyzes product sales, profitability, discounts, and top/bottom performing products.
+![1 Retail Sales Performance Dashboard](Power%20BI%20Dashboards/1%20%20Retail%20Sales%20Performance%20Dashboard.jpg)
 
-### 3️ Customer & Regional Insights
-Explores customer behavior, regions, states, cities, and market distribution.
+---
 
-### 4️ Operational & Shipping Analytics
-Analyzes shipping performance, order trends, discounts, quantity, and operational efficiency.
+### 2  Product Performance Dashboard
+
+This dashboard analyzes product performance by identifying the best-selling and most profitable products, comparing categories and sub-categories, evaluating discount impact, and highlighting loss-making products.
+
+![Product Performance](Power%20BI%20Dashboards/2%20%20Product%20Performance%20Dashboard.jpg)
+
+---
+
+### 3  Customer & Regional Insights Dashboard
+
+This page focuses on customer behavior and geographical performance. It analyzes top customers, regions, states, cities, and customer segments.
+
+![Customer & Regional Insights](Power%20BI%20Dashboards/3%20%20Customer%20%26%20Regional%20Insights%20Dashboard.jpg)
+
+---
+
+### 4 Operational & Shipping Analytics Dashboard
+
+This dashboard evaluates shipping performance, operational efficiency, order trends, quantity analysis, and loss-making products. 
+
+![Operational & Shipping Analytics](Power%20BI%20Dashboards/4%20Operational%20%26%20Shipping%20Analytics%20Dashboard.jpg)
 
 ---
 
