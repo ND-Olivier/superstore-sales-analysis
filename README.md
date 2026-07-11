@@ -137,6 +137,6 @@ Dataset/
 ---
 ## Author
 
-**Olivier Ndarishize**
+**Olivier NDARISHIZE**
 
 Aspiring Data Analyst Excel | SQL | Power BI 
