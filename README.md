@@ -123,6 +123,9 @@ superstore-sales-analysis/
 │   ├── 2 Product Performance Dashboard.jpg
 │   ├── 3 Customer & Regional Insights Dashboard.jpg
 │   └── 4 Operational & Shipping Analytics Dashboard.jpg
+├── Power BI Project/
+│   ├── README.md
+│   └── SuperStore.pbix
 ├── SQL Queries/
 │   └── Superstore_Analysis.sql
 ├── LICENSE
