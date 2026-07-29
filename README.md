@@ -115,10 +115,18 @@ This dashboard evaluates shipping performance, operational efficiency, order tre
 ## Project Structure
 
 ```text
-SQL/
-Dashboard Images/
-Documentation/
-Dataset/
+superstore-sales-analysis/
+├── Dataset/
+│   └── superstore.xlsx
+├── Power BI Dashboards/
+│   ├── 1 Retail Sales Performance Dashboard.jpg
+│   ├── 2 Product Performance Dashboard.jpg
+│   ├── 3 Customer & Regional Insights Dashboard.jpg
+│   └── 4 Operational & Shipping Analytics Dashboard.jpg
+├── SQL Queries/
+│   └── Superstore_Analysis.sql
+├── LICENSE
+└── README.md
 ```
 ---
 
